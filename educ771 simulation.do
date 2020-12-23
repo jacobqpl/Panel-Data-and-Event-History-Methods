@@ -11,8 +11,8 @@
 
 *cd "/Users/yiranchen/Desktop"
 
-capture mkdir "C:\Users\Yiran\Desktop\771 simulation"
-cd "C:\Users\Yiran\Desktop\771 simulation"
+capture mkdir "/Users/peilinqiu/Desktop/EDUC771/771 simulation"
+cd "/Users/peilinqiu/Desktop/EDUC771/771 simulation"
 
 clear
 global DIV 3
